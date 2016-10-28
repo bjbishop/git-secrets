@@ -1,0 +1,5 @@
+- id: get-secrets
+  name: git-secrets
+  entry: git-secrets.sh
+  language: script
+  files: \.*$
