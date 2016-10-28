@@ -1,0 +1,3 @@
+* Git-secrets
+
+A simple shell script and hook to included [[https://github.com/awslabs/git-secrets][git-secrets]] commit hook within [[http://pre-commit.com][pre-commit]].
