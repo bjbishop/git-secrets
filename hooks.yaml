@@ -1,4 +1,4 @@
-- id: get-secrets
+- id: git-secrets
   name: git-secrets
   entry: git-secrets.sh
   language: script
