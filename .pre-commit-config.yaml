@@ -17,6 +17,6 @@
     hooks:
     -   id: commit_habitrpg
 -   repo: git://github.com/bjbishop/git-secrets
-    sha: d891a26df9eb44b35e94d7398bd40e5b3633de17
+    sha: b4e84853bb302b8cbd3580836a299f8ef2daf2c5
     hooks:
-    -   id: git-secrets
+      - id: git-secrets
