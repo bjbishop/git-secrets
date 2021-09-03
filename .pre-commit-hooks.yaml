@@ -3,3 +3,9 @@
   entry: git-secrets.sh
   language: script
   files: \.*$
+- id: gitleaks
+  name: gitleaks
+  entry: gitleaks.sh
+  language: script
+  files: \.*$
+  
